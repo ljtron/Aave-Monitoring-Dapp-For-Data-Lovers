@@ -1,0 +1,14 @@
+{
+  "name": "monitoring_dapp",
+  "version": "1.0.0",
+  "description": "This is for the hackathon on Gitcoin called Build A Monitoring Dapp for Data lovers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lincoln Mcloud Jr.",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^1.2.2"
+  }
+}
